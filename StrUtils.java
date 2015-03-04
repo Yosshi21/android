@@ -2,7 +2,7 @@
  * Utilsクラス
  *
  */
-public class Utils {
+public class StrUtils {
 
 	/**
 	 *  getText風に文字列を取得。
